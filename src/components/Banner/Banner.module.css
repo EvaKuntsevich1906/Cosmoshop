@@ -1,0 +1,45 @@
+.banner {
+    width: 1920px;
+    height: 812px;
+    background-image: url(./../../../public/main-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 340px;
+    width: 439px;
+    padding: 96px 0px 0px 278px;
+}
+
+.logo {
+    width: 439px;
+    height: 173.34px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 99px;
+}
+
+.sales-txt {
+    font-size: 24px;
+}
+
+.catalog-btn {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 67px;
+    width: 268px;
+    background-color: #000000;
+}
+
+.catalog-btn p {
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+}

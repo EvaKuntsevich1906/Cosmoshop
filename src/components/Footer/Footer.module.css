@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.footer p {
+    color: #cdcdcd;
+    font-size: 15px;
+}
+
+.logo {
+    font-weight: 700;
+    color: dimgray;
+}
+
+.phone {
+    font-weight: 200;
+}
